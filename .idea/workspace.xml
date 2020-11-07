@@ -30,10 +30,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bgal\Documents\sassescssdesign" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,7 +51,7 @@
       <updated>1604596635774</updated>
       <workItem from="1604596636852" duration="802000" />
       <workItem from="1604736670289" duration="148000" />
-      <workItem from="1604736865095" duration="291000" />
+      <workItem from="1604736865095" duration="7166000" />
     </task>
     <servers />
   </component>
@@ -53,6 +59,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="541" y="108" key="#SCSS" timestamp="1604745897833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="108" key="#SCSS/0.0.1536.824@0.0.1536.824" timestamp="1604745897833" />
     <state x="781" y="165" key="SettingsEditor" timestamp="1604596703393">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
